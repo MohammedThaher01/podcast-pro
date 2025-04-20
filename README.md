@@ -75,13 +75,7 @@ graph TD
     C & D & E --> F[Personalized Response]
 ```
 
----
-
-## 🚀 What's Next?  
-- [x] Core AI agent (Done!)  
-- [x] Terminal interface (Done!)  
-- [ ] Web interface (October 2024)  
-- [ ] Auto-upload to YouTube (November 2024)  
+---  
 
 **Found a bug?** [Report it here](https://github.com/MohammedThaher01/podcast-pro/issues)  
 
