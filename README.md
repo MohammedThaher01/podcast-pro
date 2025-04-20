@@ -80,6 +80,16 @@ graph TD
 **Found a bug?** [Report it here](https://github.com/MohammedThaher01/podcast-pro/issues)  
 
 ---
+🚀 Post-Submission Updates (After Hackathon Deadline)
+As part of refining my submission for the Crayon’d GenAI Internship Hackathon, I've made the following improvements to enhance performance and stability:
+
+🛠️ Fixed: Pinecone integration bug causing vector indexing issues
+
+🧩 Improved: Error handling for more robust and user-friendly responses
+
+⚡ Optimized: Refactored and cleaned up backend code for better readability and efficiency
+
+📌 Note: The original demo video submitted for the hackathon remains unchanged. These backend improvements are purely to strengthen the project’s functionality.
 
 ## 📜 License  
 MIT © 2024 [Mohammed Thaher](https://github.com/MohammedThaher01) 
