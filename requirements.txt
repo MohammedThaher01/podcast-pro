@@ -1,0 +1,17 @@
+agno
+python-dotenv
+packaging
+duckduckgo-search
+fastapi
+uvicorn
+groq
+openai
+sqlalchemy
+pgvector
+psycopg[binary]
+pypdf
+google-generativeai
+duckduckgo-search
+flask
+pymongo
+pinecone
